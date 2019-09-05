@@ -1,14 +1,13 @@
 //
-//  ViewController.h
+//  Mobile.m
 //  RunTimeDemo
 //
 //  Created by a on 2019/9/3.
 //  Copyright © 2019年 TeenageBeaconFireGroup. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "Mobile.h"
 
-@interface ViewController : UIViewController
+@implementation Mobile
 
 @end
-

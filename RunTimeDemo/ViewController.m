@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "Phone.h"
 @interface ViewController ()
 
 @end
@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    Phone * phone = [[Phone alloc]init];
+
 }
 
 
